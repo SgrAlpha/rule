@@ -1,0 +1,11 @@
+# HoYoverse Global Server (HoYoverse)
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyoverse.net
+
+# CDN and Resources
+DOMAIN-SUFFIX,hoyoverse.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,webstatic-sea.hoyoverse.com
+DOMAIN-SUFFIX,hk4e-api-os.hoyoverse.com
+DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com

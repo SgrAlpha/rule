@@ -1,0 +1,14 @@
+# MiHoYo CN Server (米哈游)
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,bh3.com
+
+# CDN and Resources
+DOMAIN-SUFFIX,yuanshen.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,webstatic-sea.mihoyo.com
+DOMAIN-SUFFIX,hk4e-api.mihoyo.com
+DOMAIN-SUFFIX,api-os-takumi.mihoyo.com
+DOMAIN-SUFFIX,api-takumi.mihoyo.com

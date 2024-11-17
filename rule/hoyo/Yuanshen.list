@@ -1,0 +1,5 @@
+# MiHoYo CN Server (米哈游)
+DOMAIN-SUFFIX,yuanshen.com
+
+# CDN and Resources
+DOMAIN-SUFFIX,yuanshen.com.cdn.cloudflare.net
