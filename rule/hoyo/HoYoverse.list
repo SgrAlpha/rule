@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,hoyoverse.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,webstatic-sea.hoyoverse.com
 DOMAIN-SUFFIX,hk4e-api-os.hoyoverse.com
 DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
+DOMAIN autopatchhk.yuanshen.com
+DOMAIN,osasiadispatch.yuanshen.com
+DOMAIN,osuspider.yuanshen.com
